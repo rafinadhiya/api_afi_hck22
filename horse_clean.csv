@@ -1,0 +1,7 @@
+,surgery,age,hospital_number,rectal_temp,pulse,respiratory_rate,temp_of_extremities,peripheral_pulse,mucous_membrane,capillary_refill_time,pain,peristalsis,abdominal_distention,nasogastric_tube,nasogastric_reflux,nasogastric_reflux_ph,rectal_exam_feces,abdomen,packed_cell_volume,total_protein,abdomo_appearance,abdomo_protein,outcome,surgical_lesion,lesion_1,lesion_2,lesion_3,cp_data
+10,yes,adult,528548,38.1,66.0,12.0,cool,reduced,bright_red,less_3_sec,mild_pain,hypomotile,none,slight,none,3.0,increased,distend_large,44.0,6.0,cloudy,3.6,lived,yes,2124,0,0,yes
+54,no,adult,529461,40.3,114.0,36.0,cool,reduced,normal_pink,more_3_sec,depressed,hypomotile,moderate,slight,none,7.0,normal,distend_large,57.0,8.1,serosanguious,4.5,euthanized,yes,7400,0,0,yes
+64,yes,adult,529667,39.0,64.0,36.0,cool,normal,pale_cyanotic,more_3_sec,mild_pain,hypomotile,slight,none,less_1_liter,7.0,absent,distend_large,44.0,7.5,serosanguious,5.0,lived,yes,2113,0,0,yes
+91,no,adult,529461,40.3,114.0,36.0,cool,reduced,normal_pink,more_3_sec,depressed,hypomotile,moderate,slight,none,7.0,normal,distend_large,57.0,8.1,serosanguious,4.5,died,yes,3205,0,0,yes
+104,yes,adult,527563,37.8,52.0,24.0,normal,reduced,pale_pink,less_3_sec,severe_pain,absent,none,slight,more_1_liter,5.7,increased,distend_large,48.0,6.6,clear,3.7,died,yes,5400,0,0,no
+188,yes,adult,5299603,38.3,60.0,16.0,cool,normal,normal_pink,less_3_sec,depressed,hypermotile,none,slight,less_1_liter,3.0,normal,distend_small,30.0,6.0,clear,3.0,lived,yes,31110,0,0,no
